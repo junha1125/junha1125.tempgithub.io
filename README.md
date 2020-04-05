@@ -1,2 +1,1 @@
-# JunHa Song Blog Page
-I am trying to make my own blog page
+# junha song git blog
