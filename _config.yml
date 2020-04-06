@@ -50,9 +50,7 @@ menu:
     url:               /paper-review/
   - title:             Hyde
     url:               /hyde/
-  - title:             Documentation
-    url:               /docs/
-  - title:             About
+  - title:             About Me
     url:               /about/
 
 # Add links to the footer.
