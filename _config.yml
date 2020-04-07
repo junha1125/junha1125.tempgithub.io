@@ -46,6 +46,8 @@ author:
 
 # Add links to the sidebar.
 menu:
+  - title:             Machine Learning
+    url:               /machine-learning/
   - title:             Paper Review
     url:               /paper-review/
   - title:             Hyde
