@@ -2,6 +2,7 @@
 # file: !my-blog.md
 layout: list
 title: machine-learning
+slug: machine-learning
 menu: true
 permalink: /machine-learning/
 order: 1

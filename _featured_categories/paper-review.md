@@ -2,6 +2,7 @@
 # file: !my-blog.md
 layout: list
 title: paper-review
+slug: paper-review
 menu: true
 permalink: /paper-review/
 order: 3
