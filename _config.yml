@@ -46,14 +46,16 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Machine Learning
-    url:               /machine-learning/
-  - title:             Paper Review
-    url:               /paper-review/
-  - title:             Hyde
-    url:               /hyde/
-  - title:             second test category
-    url:               /second-category/
+  - title:             Artificial Intelligence
+    url:               /artificial-intelligence/
+  - title:             Ubuntu / Language / Algorithm
+    url:               /ubuntu-python-algorithm/
+  - title:             Docker / Git / Pytorch
+    url:               /docker-git-pytorch/
+  - title:             Projects
+    url:               /projects/
+  - title:             My Life
+    url:               /my-life/
   - title:             About Me
     url:               /about/
 
