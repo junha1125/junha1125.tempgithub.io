@@ -52,6 +52,8 @@ menu:
     url:               /paper-review/
   - title:             Hyde
     url:               /hyde/
+  - title:             second test category
+    url:               /second-category/
   - title:             About Me
     url:               /about/
 
